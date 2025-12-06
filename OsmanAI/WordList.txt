@@ -1,0 +1,1 @@
+# Placeholder word list for OsmanAI training assets
